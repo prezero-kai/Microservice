@@ -1,0 +1,6 @@
+192.168.182.131 consul apigateway ids.kai
+127.0.0.1       mvc.client 
+192.168.65.138	gitlab.kai.com harbor.kai.com
+192.168.65.140	swarmnode2.kai.com
+192.168.65.141	swarmnode1.kai.com
+192.168.65.142	swarmmanage.kai.com
